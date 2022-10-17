@@ -1,0 +1,61 @@
+{
+ "id": "df21591c-abcf-43f3-a87d-ae6134d7c5ab",
+ "brand": "Apple",
+ "name": "Macbook Air",
+ "cpu": {
+  "brand": "Intel",
+  "name": "Core i9-9980HK",
+  "numberCores": 8,
+  "numberThreads": 11,
+  "minGhz": 3.3018283273558993,
+  "maxGhz": 3.7249310801532975
+ },
+ "ram": {
+  "value": "57",
+  "unit": "GIGABYTE"
+ },
+ "gpus": [
+  {
+   "brand": "NVIDIA",
+   "name": "GTX 1070",
+   "minGhz": 1.3406586536068872,
+   "maxGhz": 1.5683773619502472,
+   "memory": {
+    "value": "3",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": "SSD",
+   "memory": {
+    "value": "869",
+    "unit": "GIGABYTE"
+   }
+  },
+  {
+   "driver": "HDD",
+   "memory": {
+    "value": "4",
+    "unit": "TERABYTE"
+   }
+  }
+ ],
+ "screen": {
+  "sizeInch": 15.990876,
+  "resolution": {
+   "width": 5596,
+   "height": 3148
+  },
+  "panel": "OLED",
+  "multitouch": true
+ },
+ "keyboard": {
+  "layout": "AZERTY",
+  "backlit": false
+ },
+ "weightKg": 2.192192549541861,
+ "priceUsd": 2807.720384456853,
+ "releaseYear": 2017
+}
